@@ -12,6 +12,8 @@ The session was focused on getting familiar with SQL Server Machine Learning Ser
 #Demo
 -----
 * The demo uses the popular heart disease dataset from UCI. Using R, a predictive model is trained and tested against known results.
+https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/processed.cleveland.data
+https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/heart-disease.names
 * After testing and comparing a few Machine Learning models, the R scripts were wrapped in SQL Server Stored Procedures letting us execute R scripts through Stored Procedures. 
 * The trained models were stored in a SQL Server table, and were used to perform Machine Learning predictions through Stored Procedure calls
 * Last step in the demo covered Native Scoring using the native C++ extension capabilities in SQL Server 2017
