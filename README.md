@@ -34,4 +34,4 @@ PredictiveModelingUsingR.r - R script (with comments wherever applicable) that b
 
 PredictiveModelingUsingMLS.sql - SQL script that uses R code covered in the previous file to build a Machine Learning predictive model that is executed in the SQL on premises instance
 
-PS: You may use this code sample as you wish. Remember that a little knowledge is often a dangerous thing :)
+PS: You may use this code sample as you wish. Remember that a little knowledge is often a dangerous thing:)
